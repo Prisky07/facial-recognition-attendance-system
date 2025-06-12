@@ -19,6 +19,7 @@ Replace the dataset path with your own folder path:
 
 python
 dataset = "path/to/your/dataset_folder"  # Replace with your actual dataset path
+
 **Run the Training:**
 Execute the script to train the model on your custom images.
 
